@@ -1,1 +1,1 @@
-第一次应用git和远程仓库github
+the first to use git and github
